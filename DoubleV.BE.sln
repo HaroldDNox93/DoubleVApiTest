@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DoubleV.BE.Api", "DoubleV.BE.Api\DoubleV.BE.Api.csproj", "{32BBB4B4-072F-4CF7-A0D5-8E3DA5C5E2DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BBB4B4-072F-4CF7-A0D5-8E3DA5C5E2DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BBB4B4-072F-4CF7-A0D5-8E3DA5C5E2DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BBB4B4-072F-4CF7-A0D5-8E3DA5C5E2DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BBB4B4-072F-4CF7-A0D5-8E3DA5C5E2DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3156D847-1819-4562-9162-CC34DB32E3BE}
+	EndGlobalSection
+EndGlobal
